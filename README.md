@@ -18,5 +18,5 @@ To see what I am currently working on in robotics:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roboavatars&repo=UltimateGoal)](https://github.com/roboavatars/ultimategoal)
 
-[![jonathanjma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjma&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![jonathanjma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjma&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanjma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
