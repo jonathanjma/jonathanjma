@@ -1,18 +1,18 @@
 ### Hello there 👋
 
-I'm Jonathan Ma, a high school junior interested in robotics and programming simulators, apps, and helpful tools.
+I'm Jonathan Ma, a high school junior interested in robotics and programming simulators, apps, and other helpful tools.
 
 - 🔭 I’m currently working on programming my team's robot for the FTC Ultimate Goal Season
-- 💻 I have experience with Java, Python, C++, JavaFx, OpenCV, TensorFlow, and Flask
+- 💻 I have experience with Java, Python, C++, Dart, JavaFx, OpenCV, Flask, Flutter, and Databases.
 - 🌱 I’m currently learning more advanced Java, Python, and C++
-- 👯 I’m looking to collaborate on anything!
+- 👯 I’m looking to collaborate on anything! Feel free to contact me with any questions/project ideas!
 - 📫 How to reach me: [via this email](mailto:appdev.mirco@gmail.com)
 <!--
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
 
-To see what I am currently working on in robotics:  
+To catch up with the lastest things I am working on in robotics:  
 [FTC Team 7303 Website](http://roboavatars.com)  
 [FTC Team 7303 Youtube Channel](https://youtube.com/roboavatars7303)  
 
