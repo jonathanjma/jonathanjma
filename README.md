@@ -1,9 +1,11 @@
 ### Hello there 👋
 
-I'm Jonathan Ma, a high school junior interested in robotics and programming simulators, apps, and other helpful tools.
+I'm Jonathan Ma, a high school senior interested in robotics and programming simulators, apps, and other helpful tools.
 
-- 🔭 I’m currently working on programming my team's robot for the FTC Ultimate Goal Season
-- 💻 I have experience with Java, Python, C++, Dart, JavaFx, OpenCV, Flask, Flutter, and Databases.
+- 🔭 I’m currently working on creating fun and helpful open source projets and programming my FTC team's robot for the Freight Frenzy Season
+- 💻 I have experience with:
+  - Languages: Java, Python, C++, Dart, JavaScript
+  - Frameworks/Libraries: JavaFx, Flask, Discord.py, Chrome Extensions, Flutter, OpenCV
 - 🌱 I’m currently learning more advanced Java, Python, and C++
 - 👯 I’m looking to collaborate on anything! Feel free to contact me with any questions/project ideas!
 - 📫 How to reach me: [via this email](mailto:appdev.mirco@gmail.com)
