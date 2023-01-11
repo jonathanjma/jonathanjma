@@ -14,4 +14,4 @@ I'm Jonathan Ma, a freshman at Cornell University studying CS. I am interested i
 - 📫 How to reach me: [via this email](mailto:appdev.mirco@gmail.com) 
 
 [![jonathanjma's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanjma&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanjma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanjma&layout=compact&exclude_repo=jonathanjma.github.io)](https://github.com/anuraghazra/github-readme-stats)
