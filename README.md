@@ -2,6 +2,8 @@
 
 I'm Jonathan Ma, a freshman at Cornell University studying CS. I am interested in robotics and programming simulators, apps, and other tools which can help people with their daily lives.
 
+Visit my [personal website](https://jonathanjma.github.io/)!
+
 - 🔭 I’m currently working on creating fun and helpful open source projects, the latest of which include:
   - [Alpha CubeSat Ground Station](https://github.com/Alpha-CubeSat/Alpha-Cubesat-Ground-Python), currently working on converting the ground station software for the Alpha CubeSat solar sail project from the Clojure functional programming language to Python
   - [Windows-iOS Clipboard](https://github.com/jonathanjma/windows-ios-clipboard), a cross platform clipboard so you can copy and paste items between different devices
