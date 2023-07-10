@@ -15,8 +15,8 @@ Visit my [personal website](https://jonathanjma.github.io/)!
 - 📫 How to reach me: [via this email](mailto:appdev.mirco@gmail.com) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanjma&show_icons=true&count_private=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanjma&show_icons=true&count_private=true&include_all_commits=true&card_width=450" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjma&layout=compact&count_private=true&exclude_repo=jonathanjma.github.io&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanjma&layout=compact&count_private=true&exclude_repo=jonathanjma.github.io" />
 </a>
