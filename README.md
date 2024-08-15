@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Jonathan Ma, a sophmore at Cornell University studying CS. I am interested in robotics and programming simulators, apps, and other tools which can help people with their daily lives.
+I'm Jonathan Ma, a junior at Cornell University studying CS. I am interested in robotics and programming simulators, apps, and other tools which can help people with their daily lives.
 
-Visit my [personal website](https://jonathanjma.github.io/)!
+Visit my [personal website](https://jonathanjma.com/)!
 
 - 🔭 I’m currently working on creating fun and helpful open source projects, the latest of which include:
   - [Happiness App](https://github.com/jonathanjma/HappinessApp), a full stack React + Flask powered social journaling web app where users can rate how they feel each day, view their happiness trends, and share them with their friends. Check it out [here](https://happinessapp.me)!
