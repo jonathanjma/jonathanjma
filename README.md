@@ -11,7 +11,7 @@ Visit my [personal website](https://jonathanjma.com/)!
 - 💻 I have experience with:
   - Languages: Python, C/C++, TypeScript, JavaScript, Java, HTML/CSS, SQL, OCaml
   - Frameworks/Libraries: Flask, React, Arduino, ROS, OpenCV, NumPy, Pandas, JavaFX, Flutter, Angular, Firebase
-- 🌱 I’m currently learning more advanced Python and Java
+<!-- - 🌱 I’m currently learning more advanced Python and Java -->
 - 📫 How to reach me: [via this email](mailto:appdev.mirco@gmail.com) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
